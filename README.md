@@ -14,27 +14,27 @@ Learn practical deployment of Deep Learning models.
 
 Technologies Used:
 
-Python
-OpenCV
-Ultralytics YOLOv8
-PyTorch
-NumPy
+Python, 
+OpenCV, 
+Ultralytics YOLOv8, 
+PyTorch, 
+NumPy.
 
 Features:
-Real-time webcam detection
-High FPS performance
-Pre-trained COCO model
-Detects 80+ object classes
-Lightweight & fast
-Easy to modify for custom datasets
-Works on CPU & GPU
+Real-time webcam detection, 
+High FPS performance, 
+Pre-trained COCO model, 
+Detects 80+ object classes, 
+Lightweight & fast, 
+Easy to modify for custom datasets, 
+Works on CPU & GPU.
 
 Applications:
 
-Surveillance systems
-Smart CCTV
-Autonomous vehicles
-Drone vision systems
-Robotics
-Traffic monitoring
-Industrial inspection
+Surveillance systems, 
+Smart CCTV, 
+Autonomous vehicles, 
+Drone vision systems, 
+Robotics, 
+Traffic monitoring, 
+Industrial inspection.
