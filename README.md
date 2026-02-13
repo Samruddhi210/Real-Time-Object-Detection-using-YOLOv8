@@ -4,14 +4,6 @@ This project implements a real-time object detection system using YOLOv8 (You On
 The system captures live video from a webcam and performs fast, accurate object detection using a pre-trained deep learning model.
 It demonstrates how Deep Learning + Computer Vision can be applied to build intelligent real-time vision systems.
 
-Objectives:
-
-Design and implement real-time object detection.
-Use a pre-trained YOLOv8 model.
-Perform inference on live webcam feed.
-Understand CNN-based detection algorithms.
-Learn practical deployment of Deep Learning models.
-
 Technologies Used:
 
 Python, 
