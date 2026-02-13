@@ -1,3 +1,5 @@
+Title: Real-Time Object Detection using YOLOv8 and OpenCV
+
 Project Overview:
 
 This project implements a real-time object detection system using YOLOv8 (You Only Look Once v8) and OpenCV.
